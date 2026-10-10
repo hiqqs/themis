@@ -1,9 +1,10 @@
 # Themis
-
 <p align="center">
-  <img src="src/assets/themisLogo.png" alt="Themis logo mark" width="42" valign="middle">
+  <img src="src/assets/themisVerdictEngine.png" alt="Themis verdict engine art" width="699">
+  <br>
+   <img src="src/assets/themisLogo.png" alt="Themis logo mark" width="45" valign="middle">
   <a href="https://github.com/vitron-ai/themis/actions/workflows/ci.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/vitron-ai/themis/ci.yml?branch=main&style=for-the-badge&label=THEMIS%20VERDICT%20PIPELINE&labelColor=111827&color=16a34a" alt="Themis verdict pipeline status" valign="middle">
+   <img src="https://img.shields.io/github/actions/workflow/status/vitron-ai/themis/ci.yml?branch=main&style=for-the-badge&label=THEMIS%20VERDICT%20PIPELINE&labelColor=111827&color=16a34a" alt="Themis verdict pipeline status" valign="middle">
   </a>
 </p>
 
@@ -187,7 +188,3 @@ Use Themis on its own — it's MIT and stands alone.
 - [Release policy](docs/release-policy.md)
 - [Publish guide](docs/publish.md)
 - [Changelog](CHANGELOG.md)
-
-<p align="center">
-  <img src="src/assets/themisVerdictEngine.png" alt="Themis verdict engine art" width="960">
-</p>
